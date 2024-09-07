@@ -5,9 +5,9 @@ metadata:
   namespace: default
 data:
   POSTGRES_DB: postgres
-  POSTGRES_HOST: database-1.ct0ga4suailq.us-east-1.rds.amazonaws.com
+  POSTGRES_HOST: db-1.cy5piqs2mnjg.us-east-1.rds.amazonaws.com
   AWS_REGION: us-east-1
   AWS_PROFILE: default
-  AWS_BUCKET: tyhp-bucket
+  AWS_BUCKET: dev-upload-bucket-3352632
   JWT_SECRET: testing
   URL: "http://localhost:8100"
